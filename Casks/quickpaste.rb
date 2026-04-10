@@ -4,10 +4,10 @@ cask "quickpaste" do
   # then update this value before pushing the cask.
   sha256 "8e56496eb32fc6433130708562bcc910cf7156ca408cdc28f94d8b3c22457b24"
 
-  url "https://github.com/lamnguyen7/quickpaste/releases/download/v#{version}/QuickPaste-#{version}.zip"
+  url "https://github.com/junitvn/quickpaste/releases/download/v#{version}/QuickPaste-#{version}.zip"
   name "QuickPaste"
   desc "Fast native macOS clipboard manager with snippets and quick actions"
-  homepage "https://github.com/lamnguyen7/quickpaste"
+  homepage "https://github.com/junitvn/quickpaste"
 
   app "QuickPaste.app"
 
