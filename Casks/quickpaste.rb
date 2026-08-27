@@ -1,8 +1,8 @@
 cask "quickpaste" do
-  version "1.2.0"
+  version "1.3.0"
   # Run ./build_app.sh to get the SHA256 for the new release zip,
   # then update this value before pushing the cask.
-  sha256 "8e56496eb32fc6433130708562bcc910cf7156ca408cdc28f94d8b3c22457b24"
+  sha256 "1cef0637ad501037a97cebc50d3c51ba43c9c72f27db2537b2ce54ed37166fc1"
 
   url "https://github.com/junitvn/quickpaste/releases/download/v#{version}/QuickPaste-#{version}.zip"
   name "QuickPaste"
